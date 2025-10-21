@@ -41,5 +41,19 @@ This application is a comprehensive medical imaging viewer with advanced feature
 <div align="center">
 </div>
 
+# CONTRIBUTERS
+[@mhmdhamddyy](https://github.com/mohamedhamdy9707-byte) 
+
+
+[@MahmoudMazen0](https://github.com/MahmoudMazen0) 
+
+[ebrahimnas577](https://github.com/ebrahimnas577) 
+# Under the Supervision of
+Prof. Dr. Tamer Basha
+
+
+Eng. Alaa Tarek
+
+
 
 
