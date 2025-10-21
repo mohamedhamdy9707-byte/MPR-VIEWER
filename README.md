@@ -41,6 +41,9 @@ This application is a comprehensive medical imaging viewer with advanced feature
 <div align="center">
 </div>
 
+# Requirements
+pip install -r requirements.txt
+
 ## How to Use
 
 ### 1. Loading Data
