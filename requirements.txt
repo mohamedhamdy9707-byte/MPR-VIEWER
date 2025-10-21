@@ -1,0 +1,9 @@
+PyQt5
+numpy
+matplotlib
+scipy
+nibabel
+pydicom
+scikit-image
+TotalSegmentator
+opencv-python
