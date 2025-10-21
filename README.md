@@ -25,5 +25,13 @@ This application is a comprehensive medical imaging viewer with advanced feature
 * **Dedicated Contour Mode**: Load an external segmentation mask and enter a specialized mode to visualize the 2D contour outlines for specific labels, allowing for easy verification of segmentation results.
 * **Flexible Interaction**: Navigate slices with sliders, pan/zoom views, and use the cine (play) mode for dynamic visualization.
 * **Export Capabilities**: Save the full loaded volume, individual 2D slices, or the extracted ROI volume for use in other applications.
+  ![]( https://github.com/mohamedhamdy9707-byte/MPR-VIEWER/blob/main/assets/ROI.png)
+<div align="center">
+</div>
+![](https://github.com/mohamedhamdy9707-byte/MPR-VIEWER/blob/main/assets/ORGAN%20DETECTION.jpg)
+<div align="center">
+</div>
+
+
 
 
