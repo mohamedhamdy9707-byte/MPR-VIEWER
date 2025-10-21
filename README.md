@@ -1,6 +1,7 @@
 # MPR-VIEWER
 MultiPlanarViewer for medical imaging with impressive features
-#OVERVIEW
+
+# OVERVIEW
 MPR viewer that visualise 3d medical data
 
  The application views MPR,oplique plane and segmentation out line.
