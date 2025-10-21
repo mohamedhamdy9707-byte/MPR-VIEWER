@@ -28,7 +28,8 @@ This application is a comprehensive medical imaging viewer with advanced feature
   ![]( https://github.com/mohamedhamdy9707-byte/MPR-VIEWER/blob/main/assets/ROI.png)
 <div align="center">
 </div>
-![](https://github.com/mohamedhamdy9707-byte/MPR-VIEWER/blob/main/assets/ORGAN%20DETECTION.jpg)
+
+ ![](https://github.com/mohamedhamdy9707-byte/MPR-VIEWER/blob/main/assets/ORGAN%20DETECTION.jpg)
 <div align="center">
 </div>
 
