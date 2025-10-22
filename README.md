@@ -37,7 +37,7 @@ This application is a comprehensive medical imaging viewer with advanced feature
 <div align="center">
 </div>
 
- ![]([https://github.com/mohamedhamdy9707-byte/MPR-VIEWER/blob/main/assets/ORGAN%20DETECTION.jpg](https://github.com/mohamedhamdy9707-byte/MPR-VIEWER/blob/main/assets/SEG%20MODE.png))
+ ![]([https://github.com/mohamedhamdy9707-byte/MPR-VIEWER/blob/main/assets/SEG%20MODE.png ))
 <div align="center">
 </div>
 
