@@ -82,8 +82,7 @@ pip install -r requirements.txt
 # CONTRIBUTERS
 [@mhmdhamddyy](https://github.com/mohamedhamdy9707-byte) 
 
-
-[@MahmoudMazen0](https://github.com/MahmoudMazen0) 
+ 
 
 [ebrahimnas577](https://github.com/ebrahimnas577) 
 # Under the Supervision of
